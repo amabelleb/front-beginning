@@ -1,0 +1,33 @@
+html{
+    font-family: arial;
+}
+body {
+    margin: 50px;
+}
+#titulo {
+    text-align: center;
+}
+.produto1, .produto2 {
+    background-color: #111111;
+    margin: 18px;
+    padding: 15px;
+    border-radius: 4px;
+}
+.amarelo {
+    color: #febe01;
+}
+.nomeproduto{
+    color: #fff;
+}
+.descricao{
+    color: #b2b2b2;
+}
+.botao {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: #febe01;
+    color: #332200;
+    padding: 8px;
+    border-radius: 4px;
+}
