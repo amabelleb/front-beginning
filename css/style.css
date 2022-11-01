@@ -1,0 +1,23 @@
+.estreiaHoje {
+    color: darkred;
+}
+
+.estreiaAmanha {
+    color: darkblue;
+}
+
+html body a{
+    text-decoration: none;;
+}
+
+html h2 a {
+    color: seagreen;
+}
+
+p {
+    font-size: 20px;
+}
+
+html {
+    font-family: Arial;
+}
